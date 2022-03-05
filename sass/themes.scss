@@ -1,0 +1,80 @@
+
+$main-num-1: #AA80C3;
+$small-num-1: #620b94;
+$text-sh-1: #620b94;
+$background-1: #f7f7f7;
+
+$main-num-2: #4FD3C4;
+$small-num-2: #533E85;
+$text-sh-2: #533E85;
+$background-2: #d9ffe2;
+
+$main-num-3: #F3B61F;
+$small-num-3: #4a9915;
+$text-sh-3: #353B3C;
+$background-3: #e0ffcc;
+
+$main-num-5: #A7D82E;
+$small-num-5: #AC0C0C;
+$text-sh-5: #353B3C;
+$background-5: #F5F883;
+
+$main-num-7: #F90716;
+$small-num-7: #1c1b04;
+$text-sh-7: #1c1b04;
+$background-7: #FFF323;
+
+.one_bull_penalty {
+	color: $small-num-1;
+	background-color: $background-1;
+
+	.middle {
+		color: $main-num-1;
+		text-shadow:  2px 2px 0px $text-sh-1, -2px -2px 0px $text-sh-1, 2px -2px 0px $text-sh-1,
+						-2px 2px 0px $text-sh-1;
+	}
+}
+
+.two_bull_penalty {
+	color: $small-num-2;
+	background-color: $background-2;
+
+	.middle {
+		color: $main-num-2;
+		text-shadow:  2px 2px 0px $text-sh-2, -2px -2px 0px $text-sh-2, 2px -2px 0px $text-sh-2,
+						-2px 2px 0px $text-sh-2;
+	}
+}
+
+.three_bull_penalty {
+	color: $small-num-3;
+	background-color: $background-3;
+
+	.middle {
+		color: $main-num-3;
+		text-shadow:  2px 2px 0px $text-sh-3, -2px -2px 0px $text-sh-3, 2px -2px 0px $text-sh-3,
+						-2px 2px 0px $text-sh-3;
+	}
+}
+
+.five_bull_penalty {
+	color: $small-num-5;
+	background-color: $background-5;
+
+	.middle {
+		color: $main-num-5;
+		text-shadow:  2px 2px 0px $text-sh-5, -2px -2px 0px $text-sh-5, 2px -2px 0px $text-sh-5,
+						-2px 2px 0px $text-sh-5;
+	}
+}
+
+.seven_bull_penalty {
+	color: $small-num-7;
+	background-color: $background-7;
+
+	.middle {
+		color: $main-num-7;
+		text-shadow:  2px 2px 0px $text-sh-7, -2px -2px 0px $text-sh-7, 2px -2px 0px $text-sh-7,
+						-2px 2px 0px $text-sh-7;
+	}
+}

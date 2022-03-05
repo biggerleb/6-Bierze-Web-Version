@@ -1,0 +1,36 @@
+.one_bull_penalty {
+  color: #620b94;
+  background-color: #f7f7f7; }
+  .one_bull_penalty .middle {
+    color: #AA80C3;
+    text-shadow: 2px 2px 0px #620b94, -2px -2px 0px #620b94, 2px -2px 0px #620b94, -2px 2px 0px #620b94; }
+
+.two_bull_penalty {
+  color: #533E85;
+  background-color: #d9ffe2; }
+  .two_bull_penalty .middle {
+    color: #4FD3C4;
+    text-shadow: 2px 2px 0px #533E85, -2px -2px 0px #533E85, 2px -2px 0px #533E85, -2px 2px 0px #533E85; }
+
+.three_bull_penalty {
+  color: #4a9915;
+  background-color: #e0ffcc; }
+  .three_bull_penalty .middle {
+    color: #F3B61F;
+    text-shadow: 2px 2px 0px #353B3C, -2px -2px 0px #353B3C, 2px -2px 0px #353B3C, -2px 2px 0px #353B3C; }
+
+.five_bull_penalty {
+  color: #AC0C0C;
+  background-color: #F5F883; }
+  .five_bull_penalty .middle {
+    color: #A7D82E;
+    text-shadow: 2px 2px 0px #353B3C, -2px -2px 0px #353B3C, 2px -2px 0px #353B3C, -2px 2px 0px #353B3C; }
+
+.seven_bull_penalty {
+  color: #1c1b04;
+  background-color: #FFF323; }
+  .seven_bull_penalty .middle {
+    color: #F90716;
+    text-shadow: 2px 2px 0px #1c1b04, -2px -2px 0px #1c1b04, 2px -2px 0px #1c1b04, -2px 2px 0px #1c1b04; }
+
+/*# sourceMappingURL=themes.css.map */

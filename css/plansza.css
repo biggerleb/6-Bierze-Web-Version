@@ -1,0 +1,64 @@
+html {
+  font-size: 16px;
+  height: 100%;
+  background-color: #c3bc78; }
+
+body {
+  min-height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; }
+
+.row {
+  height: 9rem;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  display: flex;
+  justify-content: center; }
+
+.first_row {
+  margin-top: 3rem; }
+
+.card_board_cont {
+  height: 100%;
+  width: 7rem;
+  min-width: 7rem;
+  margin-left: 6px;
+  border-radius: 0.75rem;
+  font-family: 'Passion One', cursive;
+  background-color: white;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between; }
+  .card_board_cont .middle {
+    position: relative;
+    font-size: 3.5rem; }
+  .card_board_cont .top, .card_board_cont .bottom {
+    display: flex;
+    justify-content: space-between;
+    width: 100%; }
+  .card_board_cont .penalty_icons {
+    position: absolute;
+    padding-top: 0.1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 5rem;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2%; }
+    .card_board_cont .penalty_icons img {
+      width: 1rem; }
+    .card_board_cont .penalty_icons .wrap_helper_5_bulls {
+      width: 0.5rem; }
+  .card_board_cont div span {
+    margin-left: 0.3rem;
+    margin-right: 0.3rem; }
+  .card_board_cont .bottom span {
+    transform: rotate(0.5turn); }
+
+/*# sourceMappingURL=plansza.css.map */
