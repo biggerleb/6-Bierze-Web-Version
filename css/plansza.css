@@ -1,7 +1,7 @@
 html {
   font-size: 16px;
   height: 100%;
-  background-color: #c3bc78; }
+  background-color: #ACB0BD; }
 
 body {
   min-height: 100%;
@@ -60,5 +60,12 @@ body {
     margin-right: 0.3rem; }
   .card_board_cont .bottom span {
     transform: rotate(0.5turn); }
+  .card_board_cont.empty {
+    background: #D9DBF1; }
+  .card_board_cont.cn6 {
+    background: #F06543;
+    justify-content: center; }
+    .card_board_cont.cn6 img {
+      width: 5rem; }
 
 /*# sourceMappingURL=plansza.css.map */

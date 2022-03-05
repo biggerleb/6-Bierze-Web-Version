@@ -3,7 +3,7 @@
 html {
 	font-size: 16px;
 	height: 100%;
-	background-color: #c3bc78;
+	background-color: #ACB0BD;
 }
 
 body {
@@ -85,6 +85,21 @@ body {
 
 	.bottom span {
 		transform: rotate(0.5turn);
+	}
+
+	&.empty {
+		background : #D9DBF1; 
+	}
+
+	&.cn6 {
+		// background: #E5446D;
+		background: #F06543;
+
+		justify-content: center;
+
+		img {
+			width: 5rem;
+		}
 	}
 }
 
