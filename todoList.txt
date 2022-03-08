@@ -1,0 +1,5 @@
+- sklasyfikuj wszystkie karty TORUŃ
+- pomyśl co dalej po sklasyfikowaniu
+
+PRZED SKLASYFIKOWANIEM:
+- karty na ręce, wygląd, draggable, wysuwanie przy sprawdzaniu

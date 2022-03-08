@@ -92,8 +92,7 @@ body {
 	}
 
 	&.cn6 {
-		// background: #E5446D;
-		background: #F06543;
+		background: #F06543;	
 
 		justify-content: center;
 
@@ -103,4 +102,11 @@ body {
 	}
 }
 
-
+.hand {
+	position:fixed;
+	display: flex;
+	justify-content: center;
+	bottom: -3rem;
+	height: 9rem;
+	width: 100%;
+}
